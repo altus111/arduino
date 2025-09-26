@@ -1,0 +1,30 @@
+
+<!DOCTYPE html> <!-- For more information visit: https://fipsok.de -->
+<html lang="de">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="style32.css">
+      <title>Onboard Led</title>
+   </head>
+   <body>
+      <h2>Onboard Led schalten</h2>
+      <h2>ESP32 Dev Module</h2>
+      <button class="button"></button>
+      <script>
+         function once(arg) {
+           fetch('bled' + arg).then(function (response) {
+             return response.text();
+           }).then(function (text) {
+             elem.innerHTML = 'LED ' + text;
+             text == 'Ein' ? elem.style.backgroundColor = '#adff2f' : elem.style.backgroundColor = 'red';
+           });
+         }
+         var elem = document.querySelector('button');
+         elem.addEventListener('click', function () {
+           once('?zap=');
+         });
+         once('');
+      </script>
+   </body>
+</html>

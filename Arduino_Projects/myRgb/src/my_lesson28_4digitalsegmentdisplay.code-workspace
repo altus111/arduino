@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Arduino/Arduino_Projects/my_lesson28_4digitalsegmentdisplay"
+		},
+		{
+			"name": "myBlink",
+			"path": "../../../../../Arduino/Arduino_Projects/myBlink"
+		},
+		{
+			"name": "myRgb",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

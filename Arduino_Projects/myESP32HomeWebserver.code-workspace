@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/PlatformIO/Projects/myESP32HomeWebserver"
+		},
+		{
+			"name": "myWifiTimer",
+			"path": "myWifiTimer"
+		},
+		{
+			"name": "myESP32_Webserver",
+			"path": "myESP32_Webserver"
+		},
+		{
+			"name": "myNanoStern",
+			"path": "myNanoStern"
+		},
+		{
+			"name": "mySimpleWebserver",
+			"path": "mySimpleWebserver"
+		},
+		{
+			"name": "myTestLcd",
+			"path": "../../Documents/PlatformIO/Projects/myTestLcd"
+		}
+	],
+	"settings": {}
+}

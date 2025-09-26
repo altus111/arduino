@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "../../myDisplays"
+		},
+		{
+			"name": "myTFT",
+			"path": "../../myTFT"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"name": "myESP32oled096",
+			"path": "../../myESP32oled096"
+		},
+		{
+			"path": "../../myOled_JMD0.96"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"name": "myTFT18002",
+			"path": "../../../../Documents/PlatformIO/Projects/myTFT18002"
+		},
+		{
+			"name": "myEsp32Wifi",
+			"path": "../../myEsp32Wifi"
+		}
+	],
+	"settings": {}
+}

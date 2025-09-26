@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../myWuerfel"
+		},
+		{
+			"name": "i2cScanner",
+			"path": "../../i2cScanner"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../myLcd2004_UnoWifi4"
+		},
+		{
+			"name": "arduinowifi_test",
+			"path": "../../arduinowifi_test"
+		},
+		{
+			"name": "Esp32Testmaster",
+			"path": "../../../ESP32_Projects/Esp32Testmaster"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,68 @@
+{
+	"folders": [
+		{
+			"name": "myIrProjekt",
+			"path": "../Arduino_Projects/myIrProjekt"
+		},
+		{
+			"path": "../Arduino_Projects/myIrEmpfaenger"
+		},
+		{
+			"name": "myIrSender",
+			"path": "../Arduino_Projects/myIrSender"
+		},
+		{
+			"name": "mypushbutton",
+			"path": "../../Documents/PlatformIO/Projects/mypushbutton"
+		},
+		{
+			"name": "myLcd2004A",
+			"path": "../Arduino_Projects/myLcd2004A"
+		},
+		{
+			"path": "../Arduino_Projects/i2cScanner"
+		},
+		{
+			"name": "myEncoder",
+			"path": "../Arduino_Projects/myEncoder"
+		},
+		{
+			"name": "myBodenfeuchtigkeit",
+			"path": "myBodenfeuchtigkeit"
+		},
+		{
+			"path": "../../Documents/PlatformIO/Projects/myOTA"
+		},
+		{
+			"path": "../Arduino_Projects/mySlaveUno50"
+		},
+		{
+			"path": "../Arduino_Projects/myMasterMega2560"
+		},
+		{
+			"path": "../../Documents/PlatformIO/Projects/myESP32HomeWebserver"
+		},
+		{
+			"name": "myBlink_test",
+			"path": "../../Documents/PlatformIO/Projects/myBlink_test"
+		},
+		{
+			"name": "myDatalogger",
+			"path": "../../Documents/PlatformIO/Projects/myDatalogger"
+		},
+		{
+			"name": "myTestfeuchtigkeit",
+			"path": "../../Documents/PlatformIO/Projects/myTestfeuchtigkeit"
+		},
+		{
+			"name": "esp32_TestMaster",
+			"path": "../../Documents/PlatformIO/Projects/esp32_TestMaster"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}

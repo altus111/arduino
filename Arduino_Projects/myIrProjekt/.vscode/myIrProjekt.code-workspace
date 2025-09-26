@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"name": "myIrProjekt",
+			"path": ".."
+		},
+		{
+			"path": "../../myIrEmpfaenger"
+		},
+		{
+			"name": "myIrSender",
+			"path": "../../myIrSender"
+		},
+		{
+			"name": "mypushbutton",
+			"path": "../../../../Documents/PlatformIO/Projects/mypushbutton"
+		},
+		{
+			"name": "myLcd2004A",
+			"path": "../../myLcd2004A"
+		},
+		{
+			"path": "../../i2cScanner"
+		},
+		{
+			"path": "../../myLcd2004_UnoWifi4"
+		},
+		{
+			"name": "myEncoder",
+			"path": "../../myEncoder"
+		}
+	],
+	"settings": {}
+}
